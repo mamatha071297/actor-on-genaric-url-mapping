@@ -1,0 +1,4 @@
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mamatha071297/actor-on-genaric-url-mapping.git
+git push -u origin main
